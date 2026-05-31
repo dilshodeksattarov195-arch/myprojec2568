@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervpdate",
+        "uuid": 18987792,
+        "checksum": "natdd5f"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
